@@ -8,7 +8,7 @@ I’m a Front-end Developer passionately learning and building user-focused web 
 - 👯 Looking to contribute to tech communities that value authentic engagement and inclusive growth, as a community manager
 
 # Connect with me:
-[![Frontend Mentor](Frontend_Mentor.png)](frontendmentor.io/profile/Unifies) [![LinkedIn](LinkedIn.png)](linkedin.com/in/wisdomezeonyeche)
+[![Frontend Mentor](Frontend_Mentor.png)](frontendmentor.io/profile/Unifies) [![LinkedIn](LinkedIn_Icon.png)](linkedin.com/in/wisdomezeonyeche)
   
 <!-- Here are some ideas to get you started:
 
